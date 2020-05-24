@@ -1,0 +1,20 @@
+Name = "Ujjawal sharma"
+
+Branch = "CEIT"
+
+Year = "second"
+
+College = "ABES Engineering College"
+
+PhoneNo = 8279873866
+
+CollegeId = "Ujjawal.18bci1046@abes.ac.in"
+
+Know languages : Python, C, C++, Basic Java
+
+Project undertaken : "Heart Disease Prediciton using GUI"
+
+Training and internship : "One month Python Summer  training From ABES Engineering College and one ongoing training of Data Science and Machine Learning"
+
+  
+
